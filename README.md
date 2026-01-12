@@ -1,7 +1,9 @@
 # Awesome Self-Play with Large Language Models Papers
 
 ## Related Surveys
+
 Game Theory Meets Large Language Models: A Systematic Survey
+
 A Survey on Self-Play Methods in Reinforcement Learning
 
 ## Competitive
@@ -107,4 +109,8 @@ A Survey on Self-Play Methods in Reinforcement Learning
 
 ## Environments
 
-
+<div style="margin-bottom: 1em;">
+  <strong>TextArena</strong><br>
+  <em>Guertler, Leon, Bobby Cheng, Simon Yu, Bo Liu, Leshem Choshen, and Cheston Tan</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2504.11442?">Paper</a>
+</div>
