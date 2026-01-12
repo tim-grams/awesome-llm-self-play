@@ -5,8 +5,17 @@ A Survey on Self-Play Methods in Reinforcement Learning
 
 # Competitive
 ## Text-Based Games
-#### Self-playing Adversarial Language Game Enhances LLM Reasoning
-_Cheng, Pengyu, Yong Dai, Tianhao Hu, Han Xu, Zhisong Zhang, Lei Han, Nan Du, and Xiaolong Li_
+
+
+<div style="margin-bottom: 1em;">
+  Self-playing Adversarial Language Game Enhances LLM Reasoning<br>
+  <em>Cheng, Pengyu, Yong Dai, Tianhao Hu, Han Xu, Zhisong Zhang, Lei Han, Nan Du, and Xiaolong Li</em><br>
+  NeurIPS 2024, Paper
+</div>
+
+
+*Self-playing Adversarial Language Game Enhances LLM Reasoning*<br>
+_Cheng, Pengyu, Yong Dai, Tianhao Hu, Han Xu, Zhisong Zhang, Lei Han, Nan Du, and Xiaolong Li_<br>
 NeurIPS 2024, [Paper](https://arxiv.org/pdf/2404.10642v1)
 
 ### Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game
