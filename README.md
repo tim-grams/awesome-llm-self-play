@@ -1,73 +1,90 @@
-# Related Surveys
+# Awesome Self-Play with Large Language Models Papers
+
+## Related Surveys
 Game Theory Meets Large Language Models: A Systematic Survey
 A Survey on Self-Play Methods in Reinforcement Learning
 
+## Competitive
 
-# Competitive
 ## Text-Based Games
 
-
 <div style="margin-bottom: 1em;">
-  Self-playing Adversarial Language Game Enhances LLM Reasoning<br>
+  <strong>Self-playing Adversarial Language Game Enhances LLM Reasoning</strong><br>
   <em>Cheng, Pengyu, Yong Dai, Tianhao Hu, Han Xu, Zhisong Zhang, Lei Han, Nan Du, and Xiaolong Li</em><br>
-  NeurIPS 2024, Paper
+  NeurIPS 2024, <a href="https://arxiv.org/pdf/2404.10642v1">Paper</a>
 </div>
 
+<div style="margin-bottom: 1em;">
+  <strong>Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game</strong><br>
+  <em>Ye, Rong, Yongxin Zhang, Yikai Zhang, Haoyu Kuang, Zhongyu Wei, and Peng Sun</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2501.14225">Paper</a>
+</div>
 
-*Self-playing Adversarial Language Game Enhances LLM Reasoning*<br>
-_Cheng, Pengyu, Yong Dai, Tianhao Hu, Han Xu, Zhisong Zhang, Lei Han, Nan Du, and Xiaolong Li_<br>
-NeurIPS 2024, [Paper](https://arxiv.org/pdf/2404.10642v1)
+<div style="margin-bottom: 1em;">
+  <strong>STRATEGIST: Self-Improvement of LLM Decision Making via Bi-level Tree Search</strong><br>
+  <em>Light, Jonathan, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, Wei Cheng, Yisong Yue, and Ziniu Hu</em><br>
+  ICLR 2025, <a href="https://openreview.net/pdf?id=gfI9v7AbFg">Paper</a>
+</div>
 
-### Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game
-_Ye, Rong, Yongxin Zhang, Yikai Zhang, Haoyu Kuang, Zhongyu Wei, and Peng Sun_
-arXiv 2025, [Paper](https://arxiv.org/pdf/2501.14225)
+<div style="margin-bottom: 1em;">
+  <strong>MARSHAL: Incentivizing Multi-Agent Reasoning via Self-Play with Strategic LLMs</strong><br>
+  <em>Yuan, H., Xu, Z., Tan, Z., Yi, X., Guang, M., Long, K., Hui, H., Li, B., Chen, X., Zhao, B., and Zhang, X. P.</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2510.15414">Paper</a>
+</div>
 
-### STRATEGIST: SELF-IMPROVEMENT OF LLM DECISION MAKING VIA BI-LEVEL TREE SEARCH
-_Light, Jonathan, Min Cai, Weiqin Chen, Guanzhi Wang, Xiusi Chen, Wei Cheng, Yisong Yue, and Ziniu Hu_
-ICLR 2025, [Paper](https://openreview.net/pdf?id=gfI9v7AbFg)
-
-### MARSHAL: INCENTIVIZING MULTI-AGENT REA-SONING VIA SELF-PLAY WITH STRATEGIC LLMS
-_Yuan, H., Xu, Z., Tan, Z., Yi, X., Guang, M., Long, K., Hui, H., Li, B., Chen, X., Zhao, B. and Zhang, X.P_
-arXiv 2025,[Paper](https://arxiv.org/pdf/2510.15414)
-
-### Enhancing Language Agent Strategic Reasoning through Self-Play in Adversarial Games
-_Zhang, Yikai, Ye Rong, Siyu Yuan, Jiangjie Chen, Jian Xie, and Yanghua Xiao_
-arXiv 2025, [Paper](https://arxiv.org/pdf/2510.16761)
-
-
+<div style="margin-bottom: 1em;">
+  <strong>Enhancing Language Agent Strategic Reasoning through Self-Play in Adversarial Games</strong><br>
+  <em>Zhang, Yikai, Ye Rong, Siyu Yuan, Jiangjie Chen, Jian Xie, and Yanghua Xiao</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2510.16761">Paper</a>
+</div>
 
 ## Reasoning
 
-### Improving Rationality in the Reasoning Process of Language Models through Self-playing Game
+<div style="margin-bottom: 1em;">
+  <strong>Improving Rationality in the Reasoning Process of Language Models through Self-playing Game</strong><br>
+  <a href="#">Paper</a>
+</div>
 
-### Language Self-Play For Data-Free Training
-_Kuba, Jakub Grudzien, Mengting Gu, Qi Ma, Yuandong Tian, Vijai Mohan, and Jason Chen_
-arXiv 2025, [Paper](https://arxiv.org/pdf/2509.07414)
+<div style="margin-bottom: 1em;">
+  <strong>Language Self-Play for Data-Free Training</strong><br>
+  <em>Kuba, Jakub Grudzien, Mengting Gu, Qi Ma, Yuandong Tian, Vijai Mohan, and Jason Chen</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2509.07414">Paper</a>
+</div>
 
-### SPICE: Self-Play In Corpus Environments Improves Reasoning
-_Liu, Bo, Chuanyang Jin, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, and Jason Weston_
-arXiv 2025, [Paper](https://arxiv.org/pdf/2510.24684)
+<div style="margin-bottom: 1em;">
+  <strong>SPICE: Self-Play in Corpus Environments Improves Reasoning</strong><br>
+  <em>Liu, Bo, Chuanyang Jin, Seungone Kim, Weizhe Yuan, Wenting Zhao, Ilia Kulikov, Xian Li, Sainbayar Sukhbaatar, Jack Lanchantin, and Jason Weston</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2510.24684">Paper</a>
+</div>
 
-### SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning
-_Chen, Jiaqi, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, and Kwan-Yee K. Wong_
-arXiv 2025,[Paper](https://arxiv.org/pdf/2504.19162)
+<div style="margin-bottom: 1em;">
+  <strong>SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</strong><br>
+  <em>Chen, Jiaqi, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, and Kwan-Yee K. Wong</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2504.19162">Paper</a>
+</div>
 
-### War of Thoughts: Competition Stimulates Stronger Reasoning in Large Language Models
-_Chen, Yibin, Jinyi Liu, Yan Zheng, Yifu Yuan, and Jianye Hao_
-ACL 2025,,[Paper](https://aclanthology.org/2025.findings-acl.1118.pdf)
+<div style="margin-bottom: 1em;">
+  <strong>War of Thoughts: Competition Stimulates Stronger Reasoning in Large Language Models</strong><br>
+  <em>Chen, Yibin, Jinyi Liu, Yan Zheng, Yifu Yuan, and Jianye Hao</em><br>
+  ACL 2025, <a href="https://aclanthology.org/2025.findings-acl.1118.pdf">Paper</a>
+</div>
+## Other
 
-## Adversarial
+<div style="margin-bottom: 1em;">
+  <strong>Digital Red Queen: Adversarial Program Evolution in Core War with LLMs</strong><br>
+  <em>Kumar, Akarsh, Ryan Bahlous-Boldi, Prafull Sharma, Phillip Isola, Sebastian Risi, Yujin Tang, and David Ha</em><br>
+  arXiv 2026, <a href="https://arxiv.org/pdf/2601.03335">Paper</a>
+</div>
 
-### Digital Red Queen: Adversarial Program Evolution in Core War with LLMs
-_Kumar, Akarsh, Ryan Bahlous-Boldi, Prafull Sharma, Phillip Isola, Sebastian Risi, Yujin Tang, and David Ha_
-arXiv 2026, [Paper](https://arxiv.org/pdf/2601.03335)
+<div style="margin-bottom: 1em;">
+  <strong>Incentivizing Truthful Language Models via Peer Elicitation Games</strong><br>
+  <a href="#">Paper</a>
+</div>
 
-### Incentivizing Truthful Language Models via Peer Elicitation Games
+## Cooperative
 
-# Cooperative
-
-### Everyone Contributes! Incentivizing Strategic Cooperation in Multi-LLM Systems via Sequential Public Goods Games
-_Liang, Yunhao, Yuan Qu, Jingyuan Yang, Shaochong Lin, and Zuo-Jun Max Shen_
-arXiv 2025, [Paper](https://arxiv.org/pdf/2508.02076?)
-
-
+<div style="margin-bottom: 1em;">
+  <strong>Everyone Contributes! Incentivizing Strategic Cooperation in Multi-LLM Systems via Sequential Public Goods Games</strong><br>
+  <em>Liang, Yunhao, Yuan Qu, Jingyuan Yang, Shaochong Lin, and Zuo-Jun Max Shen</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2508.02076">Paper</a>
+</div>
