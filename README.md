@@ -42,7 +42,8 @@ A Survey on Self-Play Methods in Reinforcement Learning
 
 <div style="margin-bottom: 1em;">
   <strong>Improving Rationality in the Reasoning Process of Language Models through Self-playing Game</strong><br>
-  <a href="#">Paper</a>
+  Wang, Pinzheng, Juntao Li, Zecheng Tang, and Haijia Gui<br>
+  ICML 2025, <a href="Improving Rationality in the Reasoning Process of Language Models through Self-playing Game">Paper</a>
 </div>
 
 <div style="margin-bottom: 1em;">
@@ -64,10 +65,17 @@ A Survey on Self-Play Methods in Reinforcement Learning
 </div>
 
 <div style="margin-bottom: 1em;">
+  <strong>Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains RLVR</strong><br>
+  <em>Liang, Xiao, Zhongzhi Li, Yeyun Gong, Yelong Shen, Ying Nian Wu, Zhijiang Guo, and Weizhu Chen</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2508.14029">Paper</a>
+</div>
+
+<div style="margin-bottom: 1em;">
   <strong>War of Thoughts: Competition Stimulates Stronger Reasoning in Large Language Models</strong><br>
   <em>Chen, Yibin, Jinyi Liu, Yan Zheng, Yifu Yuan, and Jianye Hao</em><br>
   ACL 2025, <a href="https://aclanthology.org/2025.findings-acl.1118.pdf">Paper</a>
 </div>
+
 ## Other
 
 <div style="margin-bottom: 1em;">
@@ -81,6 +89,14 @@ A Survey on Self-Play Methods in Reinforcement Learning
   <a href="#">Paper</a>
 </div>
 
+## Vision
+
+<div style="margin-bottom: 1em;">
+  <strong>Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play</strong><br>
+  <em>Wang, Qinsi, Bo Liu, Tianyi Zhou, Jing Shi, Yueqian Lin, Yiran Chen, Hai Helen Li, Kun Wan, and Wentian Zhao</em><br>
+  arXiv 2025, <a href="https://arxiv.org/pdf/2509.25541">Paper</a>
+</div>
+
 ## Cooperative
 
 <div style="margin-bottom: 1em;">
@@ -88,3 +104,7 @@ A Survey on Self-Play Methods in Reinforcement Learning
   <em>Liang, Yunhao, Yuan Qu, Jingyuan Yang, Shaochong Lin, and Zuo-Jun Max Shen</em><br>
   arXiv 2025, <a href="https://arxiv.org/pdf/2508.02076">Paper</a>
 </div>
+
+## Environments
+
+
